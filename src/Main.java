@@ -8,7 +8,7 @@ public class Main {
 
         if (refill < 1000) {
             System.out.println("Ваш счёт пополнен на : " + sum);
-        }else {
+        } else {
             System.out.println("Ваш счёт пополнен на : " + change);
         }
 
